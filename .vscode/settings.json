@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.donotVerifyTags": false,
+    "liveServer.settings.donotShowInfoMsg": false,
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": ""
+}
